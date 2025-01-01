@@ -80,6 +80,9 @@ To use the tax calculator:
 
 *2. Age ≥ 40 & < 60*
 
+
+
+
 ![image](https://github.com/KamiyaGaikwad/Tax-Calculator/assets/79163529/90798032-3d62-40bb-ba9a-dd14ce28b2a3)
 
 *3. Age ≥ 60*
